@@ -1,7 +1,7 @@
 // Copyright by Victoria Romeo Aznar <vromeoaznar@gmail.com>
 // Lucas Alonso <lucasalo28@gmail.com> and
 // Hernán G Solari < hgsolari@gmail.com> under License
-// GNU GENERAL PUBLIC LICENSE (see COPYING file)
+// GNU GENERAL PUBLIC LICENSE (see CPYING file)
 //
 /* Code taken from ranlib.c, a library written by:
 Barry W. Browns, James Lovato, Kathy Russell and John Venier

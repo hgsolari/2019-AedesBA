@@ -1,7 +1,7 @@
 // Copyright by Victoria Romeo Aznar <vromeoaznar@gmail.com>
 // Lucas Alonso <lucasalo28@gmail.com> and
 // Hernán G Solari < hgsolari@gmail.com> under License
-// GNU GENERAL PUBLIC LICENSE (see COPYING file)
+// GNU GENERAL PUBLIC LICENSE (see CPYING file)
 //
 float randC(long *dseed)
 {
